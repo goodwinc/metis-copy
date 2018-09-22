@@ -34,23 +34,16 @@ will have a portfolio of projects to showcase your skills.
 
 **Instructors**
 
-Julia Lintern: julia@thisismetis.com
+Joe Eddy: joe@thisismetis.com
 
 Vinny Senguttuvan: vinny@thisismetis.com
 
 
-**Teaching Assistants:**
-
-Reshama Shaikh: reshama@thisismetis.com
-
-
 **Metis Staff:**
 
-Leah Nicolai, Program Manager: leah@thisismetis.com
+Jesel Roosevelt, Program Manager: jesel@thisismetis.com
 
-Jenn Raimone, Careers Manager: jennifer@thisismetis.com
-
-Megan Ayraud, Head of Careers: megan@thisismetis.com
+Jenn Raimone, Head of Careers: jennifer@thisismetis.com
 
 
 ### Policies in Brief
@@ -92,8 +85,7 @@ We'll go over some policies on Day 1.
 
 - We'll have lecture in the mornings, and sometimes lecture will extend into the afternoon.
 
-- We'll post slides and/or iPython notebooks to the "Daily Agenda and
-  Notes" Discourse thread after each lecture.
+- We'll post slides and/or iPython notebooks after each lecture.
 
 #### Challenge Problems
 
