@@ -26,8 +26,7 @@
 
 ### <a name="section-i"></a>i. Administrative
 
-* [Student Info](https://docs.google.com/spreadsheets/d/1Qn1c5rJSLSS9Xdsr8r0rn-tEJgZlqTjFbsIkixa2jBI/edit#gid=0
-)
+* [Student Info]()
 * [Student Catalog](administrative/Metis_Student_Catalog_NY.pdf)
 
 ---
