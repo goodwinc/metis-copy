@@ -26,8 +26,7 @@
 
 ### <a name="section-i"></a>i. Administrative
 
-* [Student Info](https://docs.google.com/spreadsheets/d/1Qn1c5rJSLSS9Xdsr8r0rn-tEJgZlqTjFbsIkixa2jBI/edit#gid=0
-)
+* [Student Info]()
 * [Student Catalog](administrative/Metis_Student_Catalog_NY.pdf)
 
 ---
@@ -134,7 +133,7 @@
 ### <a name="section-f"></a>[6. Investigations (~ 5 minutes long)](/investigations)
 
 * Required:  2 presentations
-* [Investigation Signup Link](https://docs.google.com/spreadsheets/d/1YI1yB1VN-ihX7qbz2bgpk6zJYOW5edhsE6JwTaOtf_g/edit#gid=0)
+* [Investigation Signup Link]()
 * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
