@@ -7,7 +7,7 @@ In our first project, we'll get data from a city data portal and do exploratory 
 
 *Benson*
 
-**Due**: Groups will present on **Monday, July 9**
+**Due**: Groups will present on **Friday, September 28**
 
 #### Back story:
 
@@ -63,13 +63,13 @@ Your team's work will occur in a few stages, each with a deliverable:
 
 1. **Backstory:**  
 After familiarizing yourselves with the data, you'll work together to brainstorm what kind of organization you will approach with your proposal. The organization can be real or imaginary, a private company or a social sector group, anything you desire.  
-**Due date**: Submit a brief written description of your client/target to the Benson channel in slack by end of day **Tuesday 7/3**.
+**Due date**: Submit a brief written description of your client/target to the Benson channel in slack by end of day **Tuesday 9/25**.
 
 1. **Check in:**  
-Each group should have an informal check-in with the instructors about their progress sometime on **Thursday 7/5**.
+Each group should have an informal check-in with the instructors about their progress sometime on **Wednesday 9/26**.
 
 1. **Presentation:**  
-Your group will present its project to the class as a whole, as a pitch. Presentations will be 8 minutes long, given the morning of **Monday, 7/9**. Each team member should speak, a good rule of thumb is to try to evenly divide the 8 minutes among the team. You should use slides with compelling visualizations and text that reinforce your spoken points. You can use whatever slideshow software you prefer -- students have typically used keynote, google slides, or powerpoint in the past.  
+Your group will present its project to the class as a whole, as a pitch. Presentations will be 8 minutes long, given the afternoon of **Friday, 9/28**. Each team member should speak, a good rule of thumb is to try to evenly divide the 8 minutes among the team. You should use slides with compelling visualizations and text that reinforce your spoken points. You can use whatever slideshow software you prefer -- students have typically used keynote, google slides, or powerpoint in the past.  
 
 #### More info and examples
 
