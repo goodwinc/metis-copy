@@ -1,5 +1,15 @@
 # Git Workflow
 
+## IMPORTANT NOTE: 
+
+You can work with your own branches if you'd like as described below, but it is not necessary. Your life will probably be easier if you simply work off the master branch (the default), but are just very careful about not modifying any of the course files (e.g. jupyter notebooks, markdowns, or pdfs). **You should not need to modify anything in the course repo**, with the only exception being files that you need to submit for challenges or projects. Here is a good, simple workflow -- it's more beginner friendly and probably sufficient at the cost of some version control rigor:
+
+1. When accessing class files that you'll end up modifying (the best example is notebooks), either save a copy and work out of that if you want to include your own edits (e.g. NOTEBOOK_NAME_YOUR_NAME.ipynb), or if you don't need to save changes, get in the habit of running the command `git checkout FILENAME.ipynb` when you're done. Otherwise, you will see merge conflicts when you try to sync with the upstream metis version of the `nyc18_ds17` repo. You can also fix these conflicts with checkouts. 
+2. Do all project/challenge work in a separate directory on your computer.
+3. Only when you are ready to submit final work, copy your work into the appropriate location in your local version of the `nyc18_ds17` repo. Follow the staging, commiting, and pushing steps as [described here](https://github.com/thisismetis/nyc18_ds17/blob/master/resources/git/git_4_commit_pull_request.md). 
+
+If you want to work the branch way, you can follow the below.
+
 ## Table of Contents
 [Part 1:  Sync repos (do this first thing in the morning)](#section-a)  
 [Part 2:  Launch Jupyter notebook from working branch.  (Mine is `reshama_wip`)](#section-b)  
