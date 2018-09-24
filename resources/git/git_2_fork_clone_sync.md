@@ -5,13 +5,13 @@
 #### Step 1:  Go to repo
 In my personal account on GitHub, go to repo to be cloned.
 
-In this example, it is:  https://github.com/thisismetis/nyc17_ds10  
+In this example, it is:  https://github.com/thisismetis/nyc18_ds17  
 :arrow_right: **NOTE:  bookmark this**
 
 #### Step 2:  Fork repo
 Upper right of github page:  "Fork" the repo
 
-Go to my forked repo: https://github.com/reshama/nyc17_ds10  
+Go to my forked repo: https://github.com/reshama/nyc18_ds17  
 :arrow_right: **NOTE:  bookmark this**
  
 #### Step 3:  Clone repo
@@ -31,11 +31,11 @@ $ pwd
 $ cd metisgh/
 $ ls
 
-$ git clone https://github.com/reshama/nyc17_ds10.git
+$ git clone https://github.com/reshama/nyc18_ds17.git
 ```
 #### Step 4:  `cd` into cloned repo
 ```bash
-$ cd nyc17_ds10
+$ cd nyc18_ds17
 ```
 
 --
@@ -44,21 +44,21 @@ $ cd nyc17_ds10
 
 If there are changes to the original repo, how do you get them?  You need to tell your local repo that it can also get updates from the original.
 
-Origin:  reshama/nyc17_ds10
+Origin:  reshama/nyc18_ds17
 
 
 **Note:  Need to be in that directory on Unix to update repo**
 ```
 $ git remote -v
-origin	https://github.com/reshama/nyc17_ds10.git (fetch)
-origin	https://github.com/reshama/nyc17_ds10.git (push)
+origin	https://github.com/reshama/nyc18_ds17.git (fetch)
+origin	https://github.com/reshama/nyc18_ds17.git (push)
 ```
 
 Want to add reference to metis repo (which is master repo)
 Note:  can call it “upstream” or “root” or any other name
 
 ```
-$ git remote add upstream https://github.com/thisismetis/nyc17_ds10.git
+$ git remote add upstream https://github.com/thisismetis/nyc18_ds17.git
 ```
 
 Now we see we have two remotes: 
@@ -66,10 +66,10 @@ Now we see we have two remotes:
 * upstream
 ```
 $ git remote -v
-origin	https://github.com/reshama/nyc17_ds10.git (fetch)
-origin	https://github.com/reshama/nyc17_ds10.git (push)
-upstream	https://github.com/thisismetis/nyc17_ds10.git (fetch)
-upstream	https://github.com/thisismetis/nyc17_ds10.git (push)
+origin	https://github.com/reshama/nyc18_ds17.git (fetch)
+origin	https://github.com/reshama/nyc18_ds17.git (push)
+upstream	https://github.com/thisismetis/nyc18_ds17.git (fetch)
+upstream	https://github.com/thisismetis/nyc18_ds17.git (push)
 ```
 
 --
