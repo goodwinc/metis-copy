@@ -21,7 +21,7 @@
  
 **12:00 pm**: Lunch time. Brain food.
 
-**1:00 pm**: [The art of presenting](presenting.pdf)
+**1:00 pm**: [Blog Setup](fork_clone_blog_markdown)
 
 **2:00 pm**: Benson project work!
 
