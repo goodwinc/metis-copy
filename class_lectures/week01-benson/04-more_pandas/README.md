@@ -18,14 +18,11 @@
 
 **10:45 am**: [Pandas 2](pandas2_groupby_merge.ipynb)
 
-**11:30 am**: [Best Practices for Scientific Coding](pythonic_coding_slides.pdf )     
-*optional*: [Debugging in Python](debugging+logging_slides.pdf)
+**11:30 am**: [Git Review](git_workflow.md)
 
 **12:00 pm**: Food is the food of the soul
 
-**1:00 pm**: [Git Review](git_workflow.md)
-
-**1:30 pm**: Back to work on Benson!
+**1:00 pm**: Back to work on Benson!
 
 
 ### How will you know when you're done with Benson?
