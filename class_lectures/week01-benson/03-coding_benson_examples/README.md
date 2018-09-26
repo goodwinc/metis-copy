@@ -16,12 +16,12 @@
 		Saif, Maddy
 		Rob, Amine
 
-**11:00 am**: [Three Benson Solutions](three_Benson_solutions.ipynb)   
-  *optional*: [Three Benson Solutions via Pandas](three_Benson_solutions_pandas.ipynb)
+**11:00 am**: [Three Benson Solutions via Pandas](three_Benson_solutions_pandas.ipynb)   
+  *optional*: [Three Benson Solutions the hard way](three_Benson_solutions.ipynb), with dictionaries 
  
 **12:00 pm**: Lunch time. Brain food.
 
-**1:00 pm**: [The art of presenting](presenting.pdf)
+**1:00 pm**: [Blog Setup](fork_clone_blog_markdown)
 
 **2:00 pm**: Benson project work!
 
