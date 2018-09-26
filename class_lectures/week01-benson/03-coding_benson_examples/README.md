@@ -16,8 +16,8 @@
 		Saif, Maddy
 		Rob, Amine
 
-**11:00 am**: [Three Benson Solutions](three_Benson_solutions.ipynb)   
-  *optional*: [Three Benson Solutions via Pandas](three_Benson_solutions_pandas.ipynb)
+**11:00 am**: [Three Benson Solutions via Pandas](three_Benson_solutions_pandas.ipynb)   
+  *optional*: [Three Benson Solutions the hard way], with dictionaries (three_Benson_solutions.ipynb) 
  
 **12:00 pm**: Lunch time. Brain food.
 
