@@ -18,11 +18,13 @@
 
 **10:45 am**: [Pandas 2](pandas2_groupby_merge.ipynb)
 
-**11:30 am**: [Git Review](git_workflow.md)
+**11:30 am**: [Git Review](https://github.com/thisismetis/nyc18_ds17/tree/master/resources/git)
 
 **12:00 pm**: Food is the food of the soul
 
-**1:00 pm**: Back to work on Benson!
+**1:00 pm**: Quick discussion of [presenting](presenting.pdf)
+
+**1:20 pm**: Back to work on Benson!
 
 
 ### How will you know when you're done with Benson?
