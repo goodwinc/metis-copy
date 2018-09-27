@@ -27,7 +27,7 @@
 
 ### How will you know when you're done with Benson?
 
- * Your team has a five-minute presentation, given in class Friday morning.
+ * Your team has a five-minute presentation, given in class Friday afternoon.
  * You have submitted your Benson challenges on GitHub.
  * You have a write-up about your analysis of MTA turnstile (and/or other) data on your blog, and there's a link to this write-up on the class [Google sheet](placeholder).
 
