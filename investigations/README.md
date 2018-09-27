@@ -1,6 +1,6 @@
 # Investigations
 
-Signup list: https://docs.google.com/spreadsheets/d/13YCYWWVhuHzBnnBi0jiC5NYtAA8ZUJPvvIBRmEoB_XA/edit?usp=sharing
+Signup list: https://docs.google.com/spreadsheets/d/1-qYruPTmze9heJ_o4wDAS2MMmxm8wCb-dJfQG6Hq3m0/edit#gid=0
 
 These investigation presentations aim to introduce you to interesting applications and sub-topics of machine learning and data science more broadly. You will research and present briefly on your topic, becoming a relative expert. Your classmates will research and present on their topics so that you may learn from them. This process should expand your appreciation of various ways that data science is applied and help you to think about ways that you can apply what you're learning for your final project.
 
