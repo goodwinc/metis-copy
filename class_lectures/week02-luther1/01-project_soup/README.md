@@ -34,7 +34,7 @@
 
 **3:00 pm**: Brainstorm for your Luther project.
 
- * Complete a rough draft of the Luther project idea and submit via Slack by tomorrow (Wednesday) afternoon.
+ * Complete a rough draft of the Luther project idea and submit via Slack by tomorrow (Tuesday) afternoon.
 
 Make sure Benson is closed and move into Luther:
 
