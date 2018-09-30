@@ -24,6 +24,10 @@
 
 [Lightweight intro to regression in code](2_intro_to_regression.ipynb)
 
+[Gradient descent, explained with visuals](gradient_descent.ipynb)
+
+    * We'll return to GD and review / get into more detail
+
 **12:00 pm**: Lunch time
 
 **1:00 pm**: Investigation Presentation
