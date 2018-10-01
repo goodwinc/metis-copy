@@ -30,13 +30,11 @@
 
 **12:00 pm**: Lunch time
 
-**1:00 pm**: Investigation Presentation
+**1:00 pm**: [beautifulsoup](web_scraping_beautifulsoup.ipynb)
 
-**1:30 pm**: [beautifulsoup](web_scraping_beautifulsoup.ipynb)
+**2:30 pm**: Intro to [Project Luther](../../../projects/02-luther/)
 
-**2:45 pm**: Intro to [Project Luther](../../../projects/02-luther/)
-
-**3:00 pm**: Brainstorm for your Luther project.
+**2:45 pm**: Brainstorm for your Luther project.
 
  * Complete a rough draft of the Luther project idea and submit via Slack by tomorrow (Tuesday) afternoon.
 
