@@ -5,7 +5,7 @@ Today, let us progress instead of regress, even when studying regression
 **9:00 am**: [pairs](pair_linear.md)
 
         Arianna, Dan
-        Brendon, William
+        Brendon
         Andree, Matt
         Laila, Druce
         Adam, Angad
