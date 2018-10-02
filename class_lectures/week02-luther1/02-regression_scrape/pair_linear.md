@@ -1,5 +1,7 @@
 #### Pair Problem #1
 
+Solve this on paper (think of it like a puzzle): 
+
 There are 10 kids that want ice cream. Each one can choose between chocolate, vanilla or strawberry. You'll collect their choices and make one order, something like: 5 chocolate, 3 vanilla and 2 strawberry. How many possible orders can you make? 5c-3v-2s is one and 4c-4v-2s is another. But 3v-5c-2s doesn't count now because it's the same as the first order.
 
 
