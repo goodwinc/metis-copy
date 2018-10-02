@@ -4,7 +4,7 @@ Note: Please make sure you have Chrome installed (we will be working with it thi
 
 **9:00 am**: [Pair Problem](pair.md)
 
-		Arianna, William
+		Arianna
 		Dan, Matt
 		Brendon, Druce
 		Andree, Angad
