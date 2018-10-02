@@ -1,6 +1,6 @@
 ### Schedule
 
-Note: Please make sure you have Chrome installed (we will be working with it this afternoon) 
+Note: Please make sure you have Chrome installed (we will be working with it today) 
 
 **9:00 am**: [Pair Problem](pair.md)
 
@@ -18,9 +18,9 @@ Note: Please make sure you have Chrome installed (we will be working with it thi
 
 **10:00 am**: [Intro to Probability](intro_to_probability.ipynb)
 
-**11:15 am**: [Pickling](Pickling_Python_Objects.ipynb)
+**11:00 am**: [Pickling](Pickling_Python_Objects.ipynb)
 
-**11:30 pm**: [Selenium Scrape](web_scraping_selenium.ipynb)
+**11:15 pm**: [Selenium Scrape](web_scraping_selenium.ipynb)
 
 **12:00 am**: Lunch.
 
