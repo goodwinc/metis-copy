@@ -1,6 +1,6 @@
 #### Pair Problem
 
-**We'll discuss this at 9:45**
+**We'll discuss this at 9:45am**
 
 The data for this problem are the numbers 2, 7, 1, 5, and 10.
 
