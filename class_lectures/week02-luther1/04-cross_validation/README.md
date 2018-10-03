@@ -3,7 +3,7 @@
 **9:00 am**: [Pair Problem](pair_swap_dollar.md)
 
 		Arianna, Matt
-		William, Druce
+		Druce
 		Dan, Angad
 		Brendon, Maddy
 		Andree, Amine
@@ -18,13 +18,11 @@
 
 **10:45 am**: [Continuous Probability](continuous_probability.ipynb).
 
-**1:30 pm**: [Intro to model testing and model complexity](train_and_test.pdf)
+**11:00 pm**: [Intro to model testing and model complexity](train_and_test.pdf)
 
 **12:00 pm**: Should we remind you that it's time to eat?
 
-**1:00 pm**: Investigation Presentation
-
-**1:30 pm**: Yet more productivity!
+**1:30 pm**: Optional Stats and Linear Regression Review
 
 
 ### Further "Reading"
