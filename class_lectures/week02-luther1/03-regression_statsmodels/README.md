@@ -28,8 +28,6 @@ Note: Please make sure you have Chrome installed (we will be working with it tod
 
 **2:00 pm**: Careers Workshop
 
-**3:00 pm**: Optional Review Session: Pandas
-
 
 
 ### Additional Resources
