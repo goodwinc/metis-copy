@@ -133,7 +133,7 @@
 ### <a name="section-f"></a>[6. Investigations (~ 5 minutes long)](/investigations)
 
 * Required:  2 presentations
-* [Investigation Signup Link]()
+* [Investigation Signup Link](https://docs.google.com/spreadsheets/d/1-qYruPTmze9heJ_o4wDAS2MMmxm8wCb-dJfQG6Hq3m0/edit#gid=0)
 * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
