@@ -18,7 +18,7 @@
 
 **10:45 am**: [Continuous Probability](continuous_probability.ipynb).
 
-**11:00 pm**: [Intro to model testing and model complexity](train_and_test.pdf)
+**11:00 pm**: [Intro to model testing and model complexity](CV_and_testing.pdf)
 
 **12:00 pm**: Should we remind you that it's time to eat?
 
