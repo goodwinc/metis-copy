@@ -28,7 +28,9 @@
 
 **1:00 pm**: Regularization continued, if needed
 
-**2:00 pm**: Work!
+**1:30 pm**: Optional Pandas Review in the Classroom
+
+**2:30 pm**: Work!
 
 
 ### Further "Reading"
