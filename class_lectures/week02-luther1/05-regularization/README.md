@@ -14,7 +14,7 @@
 		Elizabeth, John
 		Vitoria, Goodwin
 
-**10:15 am**: 
+**10:00 am**: 
 
 * [Joe's Regularization Slides](regularization_slides.pdf)
 * [Additional Regularization Slides](regularization.pdf)
