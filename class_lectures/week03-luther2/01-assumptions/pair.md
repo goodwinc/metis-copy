@@ -6,7 +6,7 @@ Practice Lasso regularization technique in five steps:
 
 2) Using sklearn model selection's `train_test_split`, hold out a portion of the data for final testing.
 
-3) Use the KFold function from sklearn's cross validation module to divide the data into 5 training/validation sets.  Randomize the KFold (via the shuffle parameter with Random State of 0).
+3) Use the KFold function from sklearn's cross validation module to divide the non-test data into 5 training/validation sets.  Randomize the KFold (via the shuffle parameter with Random State of 0).
 
 4) Tune the lambda (alpha) parameter in the lasso model by looping over a grid of possible lambdas (sklearn: lasso)
 and scoring each value on each validation fold.
