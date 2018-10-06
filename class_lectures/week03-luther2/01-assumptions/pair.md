@@ -12,12 +12,12 @@ Practice Lasso regularization technique in five steps:
 and scoring each value on each validation fold.
 
 ```
-For each candidate lambda, loop over the 5 training/test sets.  
-On each training/test set run the lasso model on the training set and then compute and record the prediction error in the test set.  
-Finally total the prediction error for the 5 training/test sets.
+For each candidate lambda, loop over the 5 training/validation sets.  
+On each training/test set run the lasso model on the training set and then compute and record the prediction error in the validation set.  
+Finally total the prediction error for the 5 training/validation sets.
 ```
 
-5) Set lambda to be the value that minimizes prediction error on validation folds.
+5) Set lambda to be the value that minimizes prediction error across the validation folds.
 
 6) Run the lasso model again on the entire train+validation data with the optimal lambda determined in step 3. 
 Which variables would you consider excluding on the basis of these results?
