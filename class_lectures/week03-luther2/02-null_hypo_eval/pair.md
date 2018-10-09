@@ -8,6 +8,8 @@ For this problem, better the score a model can produce on the test set, the bett
 
 Here is some starter code. You can use this as a starting point for all three datasets and try to improve the score.
 
+    from sklearn.linear_model import LinearRegression
+    import pandas as pd
     df = pd.read_csv('1_train.csv')
     df_test = pd.read_csv('1_test.csv')
     m = LinearRegression()
