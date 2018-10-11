@@ -12,17 +12,17 @@ Given a string, what is the maximum possible score Johnny could have given it?
 
 **Examples**
 
-*Input*
-5
-ABbCcc
-Good luck in the Facebook Hacker Cup this year!
-Ignore punctuation, please :)
-Sometimes test cases are hard to make up.
-So I just go consult Professor Dalves
+    *Input*
+    5
+    ABbCcc
+    Good luck in the Facebook Hacker Cup this year!
+    Ignore punctuation, please :)
+    Sometimes test cases are hard to make up.
+    So I just go consult Professor Dalves
 
-*Output*
-152
-754
-491
-729
-646
+    *Output*
+    152
+    754
+    491
+    729
+    646
