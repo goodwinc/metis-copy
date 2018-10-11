@@ -10,7 +10,7 @@ The beauty of each letter is an integer between 1 and 26, inclusive, and no two 
 
 Given a string, what is the maximum possible score Johnny could have given it?
 
-**Examples**
+**Examples:**
 
     *Input*
     ABbCcc
