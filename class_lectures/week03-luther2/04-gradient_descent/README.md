@@ -17,7 +17,7 @@
 **10:00 am**: [Short gradient descent review](gradient_descent.ipynb) & 
 	      [intro to stochastic gradient descent](Stochastic_Gradient_Descent.pdf)
 
-**11:30 am**: Work! You have projects due tomorrow :o
+**11:00 am**: Work! You have projects due tomorrow :o
 
 **12:00 pm**: Eat Something
 
