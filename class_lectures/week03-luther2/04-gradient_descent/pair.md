@@ -1,3 +1,7 @@
+#### Pair Problem
+
+(Today we have a simple Python problem. We'll discuss it at 9:45.)
+
 When John was a little kid he didn’t have much to do. So he evaluated the beauty of strings.
 
 Given a string s, Johnny defined the beauty of the string as the sum of the beauty of the letters in it.
