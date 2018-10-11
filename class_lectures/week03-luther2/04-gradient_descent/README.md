@@ -14,7 +14,8 @@
 		Andree, Krisztian
 		Laila, Adam
 
-**10:30 am**: [Short gradient descent review & intro to stochastic gradient descent](Stochastic_Gradient_Descent.pdf)
+**10:30 am**: [Short gradient descent review](gradient_descent.ipynb) & 
+	      [intro to stochastic gradient descent](Stochastic_Gradient_Descent.pdf)
 
 **11:30 am**: Work! You have projects due tomorrow :o
 
