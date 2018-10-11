@@ -1,29 +1,18 @@
 #### Pair Problem
 
-(Today we have a simple Python problem. We'll discuss it at 9:45.)
+*A version of this problem was faced at a whiteboard by a Metis student in an interview for a data scientist position on April 16, 2015.*
 
-When John was a little kid he didn’t have much to do. So he evaluated the beauty of strings.
+In programming languages, and especially in Lisps, there can be a lot of parentheses. The parentheses have to be "balanced" to be valid. For example, `()(())` is balanced, but `()())` is not balanced. Also, `)((())` is not balanced.
 
-Given a string s, Johnny defined the beauty of the string as the sum of the beauty of the letters in it.
+Write a function that takes a string and returns `True` if the string's parentheses are balanced, `False` if they are not.
 
-The beauty of each letter is an integer between 1 and 26, inclusive, and no two letters have the same beauty. Johnny doesn’t care about whether letters are uppercase or lowercase, so that doesn’t affect the beauty of a letter.
+**This is fairly easy. Once you are finished, see if you can come up with a second way to solve the problem. We'll discuss at 9:45.**
 
-Given a string, what is the maximum possible score Johnny could have given it?
+Here are examples to test your function with:
 
-**Examples:**
-
-    *Input*
-    ABbCcc
-    Good luck in the Facebook Hacker Cup this year!
-    Ignore punctuation, please :)
-    Sometimes test cases are hard to make up.
-    So I just go consult Professor Dalves
-
-    *Output*
-    152
-    754
-    491
-    729
-    646
-
-Source: [Code Chef](https://www.codechef.com/problems/WICQ8)
+ * `(()()()())` should return `True`
+ * `(((())))` should return `True`
+ * `(()((())()))` should return `True`
+ * `((((((())` should return `False`
+ * `()))` should return `False`
+ * `(()()))(()` should return `False`
