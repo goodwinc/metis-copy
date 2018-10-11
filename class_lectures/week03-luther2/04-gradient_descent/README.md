@@ -1,6 +1,6 @@
 ### Schedule
 
-**9:00 am**: [Pair Problem](pair_dank_usernames.md)
+**9:00 am**: [Pair Problem](pair.md)
 
 		Arianna, Rob
 		Amine, Saif
