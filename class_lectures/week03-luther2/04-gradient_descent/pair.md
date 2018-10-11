@@ -1,6 +1,6 @@
 When John was a little kid he didn’t have much to do. So he evaluated the beauty of strings.
 
-Given a string s, little Johnny defined the beauty of the string as the sum of the beauty of the letters in it.
+Given a string s, Johnny defined the beauty of the string as the sum of the beauty of the letters in it.
 
 The beauty of each letter is an integer between 1 and 26, inclusive, and no two letters have the same beauty. Johnny doesn’t care about whether letters are uppercase or lowercase, so that doesn’t affect the beauty of a letter.
 
