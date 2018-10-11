@@ -25,3 +25,5 @@ Given a string, what is the maximum possible score Johnny could have given it?
     491
     729
     646
+
+Source: [Code Chef](https://www.codechef.com/problems/WICQ8)
