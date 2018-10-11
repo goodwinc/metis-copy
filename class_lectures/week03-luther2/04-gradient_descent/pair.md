@@ -4,7 +4,7 @@ Given a string s, Johnny defined the beauty of the string as the sum of the beau
 
 The beauty of each letter is an integer between 1 and 26, inclusive, and no two letters have the same beauty. Johnny doesn’t care about whether letters are uppercase or lowercase, so that doesn’t affect the beauty of a letter.
 
-Given a string, what is the maximum possible score it could have?
+Given a string, what is the maximum possible score Johnny could have given it?
 
 **Examples**
 
