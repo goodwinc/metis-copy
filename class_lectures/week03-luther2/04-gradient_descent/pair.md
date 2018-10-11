@@ -13,7 +13,6 @@ Given a string, what is the maximum possible score Johnny could have given it?
 **Examples**
 
     *Input*
-    5
     ABbCcc
     Good luck in the Facebook Hacker Cup this year!
     Ignore punctuation, please :)
