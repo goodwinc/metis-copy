@@ -105,7 +105,7 @@
  
 * Required:  2 blogs
 * Recommended:  5+ blogs
-* [Blog Tracking - link](https://docs.google.com/a/thisismetis.com/spreadsheets/d/1ySIw5LPbZqRVbBOOGH2F-n_YsFMwmmMR9jFXCAhU2gQ/edit?usp=sharing)
+* [Blog Tracking - link](https://docs.google.com/spreadsheets/d/11Ih-pHb8hP-a7qqei_t1ahF7eTMQYgDWyMGMz34aYxk/edit?usp=sharing)
 
 | Blog | Topic | Note* | Due |  
 |------|-------|-------|-----|

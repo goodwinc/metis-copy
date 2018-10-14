@@ -1,6 +1,6 @@
 ### Schedule
 
-**9:00 am**: [Pair Problem](pair_dank_usernames.md)
+**9:00 am**: [Pair Problem](pair.md)
 
 		Arianna, Rob
 		Amine, Saif
@@ -14,9 +14,10 @@
 		Andree, Krisztian
 		Laila, Adam
 
-**10:30 am**: [Short gradient descent review & intro to stochastic gradient descent](Stochastic_Gradient_Descent.pdf)
+**10:00 am**: [Short gradient descent review](gradient_descent.ipynb) & 
+	      [intro to stochastic gradient descent](Stochastic_Gradient_Descent.pdf)
 
-**11:30 am**: Work! You have projects due tomorrow :o
+**11:00 am**: Work! You have projects due tomorrow :o
 
 **12:00 pm**: Eat Something
 
