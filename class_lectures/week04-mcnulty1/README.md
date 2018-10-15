@@ -49,7 +49,7 @@ We are going to start off the week with an introduction of Project 3: McNulty. W
 #### Thursday 10/18
 ##### week 4 day 4:
 
-[Naive Bayes](04-bayes/Naive_Bayes.pdf)
+* [Naive Bayes](04-bayes/Naive_Bayes.pdf)
 * Working with [Postgres & psycopg](04-svm_psycopg/Postgres_psycopg.md)
 
 ---
