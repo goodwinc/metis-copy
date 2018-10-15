@@ -48,7 +48,7 @@ You should use **at least one** and preferably more of the optional tools like S
 
 #### Deliverable/communication:
 
-Project / Presentation due Wednesday 8/8
+Project / Presentation due Wednesday 10/31
 
   * organized project repository
   * slide presentation
@@ -56,16 +56,16 @@ Project / Presentation due Wednesday 8/8
 
 **Status Updates**: All submitted to the teaching staff
 
-* Wednesday 7/25: Project Proposal Submission
-* Monday 7/30: Status Update: What are you working on, have you started modeling, what are the main challenges you're currently facing?
-* Thursday 8/2: MVP submission: Minimum Viable Products! Just do it!
+* Wednesday 10/17: Project Proposal Submission
+* Monday 10/22: Status Update: What are you working on, have you started modeling, what are the main challenges you're currently facing?
+* Thursday 10/25: MVP submission: Minimum Viable Products! Just do it!
 
     * Which of the business functions have you started to tackle? Show us evidence.
     * Show us some initial results with models (they can be simple models on a subset of your data). Tell us about the feature       engineering you've done so far.
     * [How to](../../class_lectures/week03-luther2/02-null_hypo_eval/mvp_instructions.md) make an MVP.
     * [Example](../../class_lectures/week03-luther2/02-null_hypo_eval/mvp_example.md) MVP.
  
-* Monday 8/6: Status Update: Where are you at, what are the final challenges you're facing, do you need extra help?
+* Monday 10/29: Status Update: Where are you at, what are the final challenges you're facing, do you need extra help?
 
 #### Design:
 
