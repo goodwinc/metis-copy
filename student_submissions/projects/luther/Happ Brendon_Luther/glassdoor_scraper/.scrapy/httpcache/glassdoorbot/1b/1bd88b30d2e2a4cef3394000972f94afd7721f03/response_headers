@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=Od1ce/BOesjPlTuadhUeiQLjFeHvHBEdP2g3nN6bQnisB7eZ1473zQ91YWapdJQL6Yr+b52L6EVE9DCBqniHQf5NUQJQbwnrRhIABsEXE+OsmkykppP9/FO6wWYbWVfFEJjNQVUl4W/ikL0uzuV2kllGFx8fxk4B1KUvVD0VBerPyWCSUslVgaMdF6zMKw==; Expires=Fri, 12 Oct 2018 15:26:52 GMT; Path=/
+Set-Cookie: GSESSIONID=589A7A2A19551A35D3E9DC8387D71386; Expires=Fri, 05-Oct-2018 17:26:52 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 17:26:52 GMT; Path=/
+Set-Cookie: gdId=96a844e3-a3c9-4ae2-b5be-2879cca6423d; Expires=Mon, 02-Oct-2028 15:26:52 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 17:26:52 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 15:26:52 GMT
+Cf-Ray: 4650e8bb8be591fa-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/construction-engineering-technicians-inspectors-mc-squared-JV_IC1155639_KO0,47_KE48,58.htm?jl=2884086530&ctt=1538753212829

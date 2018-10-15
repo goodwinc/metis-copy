@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=0PFYRc5MZspnWY6ZX3sWn6vcKOl4mUrocYchtBh1ymMHORxmAX2ncAZhOzgb+2ArN5caLPIHM3fyR1T4ZMwC8jvx2KGLCY6c11BBLAMXSLHonAkABeQuqeUEnPWMgYpzyJ4sUlQ6XIYLMO6cCnB1w40U6fbgRJYL2UVwApYDFpo4WJD32xpG2/Kj3Zuk3A==; Expires=Fri, 12 Oct 2018 15:11:07 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=20C92FDB8B92FF5F43055527BF3EB2F5; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=20C92FDB8B92FF5F43055527BF3EB2F5; Expires=Fri, 05-Oct-2018 17:11:07 GMT; Path=/; Secure
+Set-Cookie: cass=0; Expires=Fri, 05-Oct-2018 17:11:07 GMT; Path=/; Secure
+Set-Cookie: gdId=96a844e3-a3c9-4ae2-b5be-2879cca6423d; Expires=Mon, 02-Oct-2028 15:11:07 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 17:11:07 GMT; Path=/; Secure
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 15:11:07 GMT
+Cf-Ray: 4650d1a799750ec1-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/machinist-royell-manufacturing-JV_IC1150458_KO0,9_KE10,30.htm?jl=2738725857&ctt=1538752267538

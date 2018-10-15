@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=nXnNC9rPGMTOgm7+4i85OMcf93gfac3H+OIb1kEdCQytAhxG1j4pQgNnfOdo/YA+FuANcDHt9+AWmE+HfG7iDWlFkfxTBmRPA21y35pk6GlSemBKhfJuMP0AWfuYkCn8hEkbPRlLzVxFLy9dVD+jDjFgT29+EXKD/eFNge5WT5Xw5PNKC+APlQAR/KZX4w==; Expires=Fri, 12 Oct 2018 15:26:48 GMT; Path=/
+Set-Cookie: GSESSIONID=589A7A2A19551A35D3E9DC8387D71386; Expires=Fri, 05-Oct-2018 17:26:48 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 17:26:48 GMT; Path=/
+Set-Cookie: gdId=96a844e3-a3c9-4ae2-b5be-2879cca6423d; Expires=Mon, 02-Oct-2028 15:26:48 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 17:26:48 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 15:26:48 GMT
+Cf-Ray: 4650e8a2dcc891fa-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/outpatient-office-in-home-clinician-bristol-today-s-youth-JV_IC1148414_KO0,43_KE44,57.htm?jl=2843883423&ctt=1538753208861

@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=avZGpGqjwAGaSdBHa6reSYbXUN0wzJcQAhNBiaZ9RkaMfa8FB56tojeosM1pofDBJ9+KjfU+dpDytNzLMycNGS7M2paK68yDznWhII2Zk6ek561loMSSyWQD2tvY; Expires=Fri, 12 Oct 2018 20:13:16 GMT; Path=/
+Set-Cookie: GSESSIONID=1B87C9BE5E3C708B61DEF0B32E2CAA32; Expires=Fri, 05-Oct-2018 22:13:16 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 22:13:16 GMT; Path=/
+Set-Cookie: gdId=29f9341f-d2ac-48a0-a5c5-2eeb18da1451; Expires=Mon, 02-Oct-2028 20:13:16 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 22:13:16 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 20:13:16 GMT
+Cf-Ray: 46528c42cb7291ee-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: https://ad.doubleclick.net/ddm/clk/410749410;211387350;v?https://www.glassdoor.com/job-listing/bioinformatics-software-engineer-solid-tumor-team-memorial-sloan-kettering-JV_IC1132348_KO0,49_KE50,74.htm?jl=2622539418&ctt=1538770396696

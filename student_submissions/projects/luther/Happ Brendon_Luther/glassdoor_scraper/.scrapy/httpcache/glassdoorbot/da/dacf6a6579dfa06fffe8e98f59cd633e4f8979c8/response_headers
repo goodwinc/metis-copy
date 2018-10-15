@@ -1,0 +1,12 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: IDE=AHWqTUnGwYa8Bq0CU0aOGTQYll4LMzyePb2LE7a0fAWpWYPkFajMHWuwClMugvVg; expires=Sun, 04-Oct-2020 21:24:06 GMT; path=/; domain=.doubleclick.net; HttpOnly
+Set-Cookie: test_cookie=; domain=.doubleclick.net; path=/; expires=Mon, 21 Jul 2008 23:59:00 GMT
+Set-Cookie: FLC=CIS_SBDcmsNsGI6z-soBKLKXqQEw9qzf3QU; expires=Fri, 05-Oct-2018 21:24:16 GMT; path=/; domain=.doubleclick.net
+Server: cafe
+Location: https://www.glassdoor.com/job-listing/avionics-development-engineer-junior-boeing-JV_IC1131270_KO0,36_KE37,43.htm?jl=2887786966&ctt=1538774587425
+Date: Fri, 05 Oct 2018 21:24:06 GMT
+P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Alt-Svc: quic=":443"; ma=2592000; v="44,43,39,35"
+Content-Type: text/html; charset=UTF-8
+Timing-Allow-Origin: *

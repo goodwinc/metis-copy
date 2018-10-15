@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=dSLiqXSHoiDC/qjair++DMKGDV0QdWJM9hPvFvlVr48d78MmVgj0Mqw9SV30rOXW8iZq85U7GMEdSrtnitq/pYu28Ak8ROE74uc7Lf1iglRRgvNFdHeaRK8s/eBnLdGQpc8yzaNz4fAQa81vBov3KztsBo8SSJpZfFq+ITwn0XmTgyWBILGZfgCTxiEmGA==; Expires=Fri, 12 Oct 2018 17:51:58 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=3A5DFB8C2BC3D0A804E9E15578611D14; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=3A5DFB8C2BC3D0A804E9E15578611D14; Expires=Fri, 05-Oct-2018 19:51:58 GMT; Path=/; Secure
+Set-Cookie: cass=0; Expires=Fri, 05-Oct-2018 19:51:58 GMT; Path=/; Secure
+Set-Cookie: gdId=96a844e3-a3c9-4ae2-b5be-2879cca6423d; Expires=Mon, 02-Oct-2028 17:51:58 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 19:51:58 GMT; Path=/; Secure
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 17:51:58 GMT
+Cf-Ray: 4651bd462efe922a-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/experienced-controller-accountant-full-or-part-time-your-part-time-controller-JV_IC1138213_KO0,51_KE52,77.htm?jl=2776505236&ctt=1538761918501

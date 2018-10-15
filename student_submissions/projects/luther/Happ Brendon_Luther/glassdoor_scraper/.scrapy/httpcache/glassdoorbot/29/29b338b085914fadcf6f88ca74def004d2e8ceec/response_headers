@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=hG1ZQHuE8H0qFMyIDh8XGw5gpuYXRXABw7K/5rWyCyZkPMY7oMe77DXw+P8TtbOL+ySHzVBGeSZimY/IYPqItoEEApYH3iwlUCVejsYrBCpbKdRxYuYua+/V0Yxz; Expires=Sat, 13 Oct 2018 03:58:27 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=ABEF62A7C12D59382B46D518C4C81C89; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=ABEF62A7C12D59382B46D518C4C81C89; Expires=Sat, 06-Oct-2018 05:58:27 GMT; Path=/; Secure
+Set-Cookie: cass=0; Expires=Sat, 06-Oct-2018 05:58:27 GMT; Path=/; Secure
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Tue, 03-Oct-2028 03:58:27 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 05:58:27 GMT; Path=/; Secure
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Sat, 06 Oct 2018 03:58:27 GMT
+Cf-Ray: 465535ad7fbb91ac-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/data-engineer-teza-technologies-JV_IC1139761_KO0,13_KE14,31.htm?jl=2755951073&ctt=1538798307511

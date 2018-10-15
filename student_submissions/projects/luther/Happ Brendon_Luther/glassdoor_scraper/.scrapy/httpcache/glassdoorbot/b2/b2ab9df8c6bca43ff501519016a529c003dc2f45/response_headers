@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=Z9z02g0P9YY2U5/ySyzmuPjnJaoaqApP/qEf8u0qRPTQX50Z/FYMlhdOgqsWrLcWrWS2SeFHS778JKEMCOh8eQ+3dljbo8zMYXMEX8EmBDYIQeNH7g8aE6xIHz7+; Expires=Fri, 12 Oct 2018 23:03:42 GMT; Path=/
+Set-Cookie: GSESSIONID=518C4164196ACC9391ED8CCEE513BAD3; Expires=Sat, 06-Oct-2018 01:03:42 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 01:03:42 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Mon, 02-Oct-2028 23:03:42 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 01:03:42 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 23:03:42 GMT
+Cf-Ray: 465385eb8b2b0ee5-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/industrial-engineer-st-onge-company-JV_IC1153468_KO0,19_KE20,35.htm?jl=2845255752&ctt=1538780622720

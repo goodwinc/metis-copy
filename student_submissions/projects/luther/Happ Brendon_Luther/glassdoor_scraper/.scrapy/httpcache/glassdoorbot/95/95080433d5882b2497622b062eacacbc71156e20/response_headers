@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=JR2nw6hZg/AL2v8wN/3hnjPjmJtXM7GGwQx6X7NvtQ4JSaaalo8HlxzF6ytGCJDLzexbC2bRlDls0VRbgTtwaOrD+ZdSHN7OXthlI1xaTTczxYaUJPwKUajwuIKu2dhWCVjwt3amCGyYg+tdxAjfGG7gZmAIvfMQxOw8C6SEywM3Lt2pv/fdBiUZxi4gxg==; Expires=Fri, 12 Oct 2018 17:52:50 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=B06D8CAD110133F53E325057DE0BC024; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=B06D8CAD110133F53E325057DE0BC024; Expires=Fri, 05-Oct-2018 19:52:50 GMT; Path=/; Secure
+Set-Cookie: cass=0; Expires=Fri, 05-Oct-2018 19:52:50 GMT; Path=/; Secure
+Set-Cookie: gdId=96a844e3-a3c9-4ae2-b5be-2879cca6423d; Expires=Mon, 02-Oct-2028 17:52:50 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 19:52:50 GMT; Path=/; Secure
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 17:52:50 GMT
+Cf-Ray: 4651be8aedd2922a-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/regional-sales-agent-merchant-services-red-payments-JV_IC1142361_KO0,38_KE39,51.htm?jl=2974940269&ctt=1538761970457

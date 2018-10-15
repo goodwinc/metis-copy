@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=LicP6SvmhmavO32dScLneWtR7tuYtUA2djhli5qPpWn+kXhDNF5IpsksEWnpKj3KYcxusM/cZkUwwrH44E2P7oUYAU3JHECk7X95C7UlBu7318m8l3CHFb9Jx6D5; Expires=Fri, 12 Oct 2018 22:54:45 GMT; Path=/
+Set-Cookie: GSESSIONID=518C4164196ACC9391ED8CCEE513BAD3; Expires=Sat, 06-Oct-2018 00:54:45 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:54:45 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Mon, 02-Oct-2028 22:54:45 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:54:45 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 22:54:45 GMT
+Cf-Ray: 465378cf4c800ee5-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/resource-coordinator-alpha-resource-center-of-santa-barbara-JV_IC1147473_KO0,20_KE21,59.htm?jl=2895297969&ctt=1538780085714

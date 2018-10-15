@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=T3Apf+GXWb+Av/LRkyySZo/MY+zAAPtqu9gsOfYRyzzjFtu9K6EbaA/x9DUczoZkl1Uw1f8NH0tIlqzBmvLyaOMJ4xm7oIQZo2nvsJcHo7tRcvhwTcf1AzmG/41N; Expires=Fri, 12 Oct 2018 22:11:04 GMT; Path=/
+Set-Cookie: GSESSIONID=2B34FF98BFC9DCBBBEE92C956C15214B; Expires=Sat, 06-Oct-2018 00:11:04 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:11:04 GMT; Path=/
+Set-Cookie: gdId=611712ba-b6b0-4c92-9aee-e27a1903a6d5; Expires=Mon, 02-Oct-2028 22:11:04 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:11:04 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 22:11:04 GMT
+Cf-Ray: 465338cf39b39206-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/civil-engineer-koontz-bryant-johnson-williams-JV_IC3731101_KO0,14_KE15,45.htm?jl=2844970226&ctt=1538777464271

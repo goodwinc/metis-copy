@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=o/sjteQuiILrYMwyGiNog0Q4dMCOiIe+FEjfosM9r2XfxXzmqS/6WGU8uqhkW1aXbHbK6elvVlpJKdFl75cpjRgZ95Gn3JbxUP3MGZuQ6FhT1I+mEI3x1/xhqdD2; Expires=Fri, 12 Oct 2018 21:20:58 GMT; Path=/
+Set-Cookie: GSESSIONID=518C4164196ACC9391ED8CCEE513BAD3; Expires=Fri, 05-Oct-2018 23:20:58 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 23:20:58 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Mon, 02-Oct-2028 21:20:58 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 23:20:58 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 21:20:58 GMT
+Cf-Ray: 4652ef6b0b5c922a-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/senior-software-engineer-java-developer-iseecars-com-JV_IC1154729_KO0,39_KE40,52.htm?jl=2746963511&ctt=1538774458174

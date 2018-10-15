@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=dSg4KxGt0l26nn19n2BTHfzAz4aDypLxEt2oaxm/T6wagP9r1YtMtQZu+SaiGgkhQOMMasT25ZGkuvIO5K8HW1Xq8TmTwCZp8IRS5md8sSLUk6GgydbfNA5LD2YB; Expires=Fri, 12 Oct 2018 22:16:54 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=40236FD73E9BCD673A20725247BF6FE4; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=2B34FF98BFC9DCBBBEE92C956C15214B; Expires=Sat, 06-Oct-2018 00:16:54 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:16:54 GMT; Path=/
+Set-Cookie: gdId=611712ba-b6b0-4c92-9aee-e27a1903a6d5; Expires=Mon, 02-Oct-2028 22:16:54 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:16:55 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 22:16:55 GMT
+Cf-Ray: 4653415e8f0b9206-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/senior-backend-engineer-kittyhawk-io-JV_IC1147401_KO0,23_KE24,36.htm?jl=2948225409&ctt=1538777815164

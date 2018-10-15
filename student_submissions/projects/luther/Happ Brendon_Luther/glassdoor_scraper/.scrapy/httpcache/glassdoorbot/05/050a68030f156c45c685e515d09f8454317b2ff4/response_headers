@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=61PANUzCURddUi3K64PFwE882xMjqz1xaPz8mhoGG6alQRDprz88u/MwykOiHnO8Md9vus0v2yn8282OFnkQUkcvf2lgZLFBSlgkgLlwJR7XBytxhlBq8SLm6/Cy; Expires=Fri, 12 Oct 2018 22:05:17 GMT; Path=/
+Set-Cookie: GSESSIONID=518C4164196ACC9391ED8CCEE513BAD3; Expires=Sat, 06-Oct-2018 00:05:17 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:05:17 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Mon, 02-Oct-2028 22:05:17 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:05:18 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 22:05:18 GMT
+Cf-Ray: 4653305b5ec10ef1-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/at-home-rn-care-manager-geisinger-JV_IC3806633_KO0,23_KE24,33.htm?jl=2977134061&ctt=1538777118044

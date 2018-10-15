@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=UUnjXK4pfHHPrTfG7TVIyCTJksDWdKIgKfHk7oilXkYM2nmT3mG5xjHjfkpCs5JMKC+sPgyj4Sor+J0IiYJUFrPcGN67sTVA/k5ACmodhVdi6dXBWGG4teoKq3T+; Expires=Fri, 12 Oct 2018 21:47:31 GMT; Path=/
+Set-Cookie: GSESSIONID=518C4164196ACC9391ED8CCEE513BAD3; Expires=Fri, 05-Oct-2018 23:47:31 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 23:47:31 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Mon, 02-Oct-2028 21:47:31 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 23:47:31 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 21:47:31 GMT
+Cf-Ray: 4653165298b8922a-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/adjunct-nursing-clinical-instructor-baker-college-JV_KO0,35_KE36,49.htm?jl=2974370495&ctt=1538776051702

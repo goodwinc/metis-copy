@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=k1lIgcXx6Z1A/d+Qzxb1wYgW1j+x4TsY46wtIj74UlW0LzD9r5mv+e+kGwdPYJ7iTKR6EPcjoDYfkYhjFdAQjD4LbbEskkRbVLA8U6Pak56esNCZfJfrgYqW5/5ig5L3xYw4o9Hbz3ZFlKxCcijsU+P/qSosmrOT1gkOGQuA5n/N0ANULSN356Z2ZLZEvw==; Expires=Fri, 12 Oct 2018 17:51:55 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=9BC76867085B8327765309C3718E5E82; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=9BC76867085B8327765309C3718E5E82; Expires=Fri, 05-Oct-2018 19:51:55 GMT; Path=/; Secure
+Set-Cookie: cass=0; Expires=Fri, 05-Oct-2018 19:51:55 GMT; Path=/; Secure
+Set-Cookie: gdId=96a844e3-a3c9-4ae2-b5be-2879cca6423d; Expires=Mon, 02-Oct-2028 17:51:55 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 19:51:55 GMT; Path=/; Secure
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 17:51:55 GMT
+Cf-Ray: 4651bd31184d922a-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/back-end-software-development-instructor-turing-school-of-software-design-JV_IC1148170_KO0,40_KE41,73.htm?jl=2668418621&ctt=1538761915137

@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=bKdYaHTu+0gXXVZCnyZModLmMZ1oVlaA+C2creD2cBM3piFb183wMJtGnHJmjrobo0AiiA12+BcxsDlsPamIvSK0dYx08jgUCVOTqqJXbFpZ9NOwpvRVmRf4ALtIdw6CVcMvuFBHDbbG6P4eoE4ZzmwzKX0EKRbey23QcNx9PwFwVEStbT6LYVWUd+P9tw==; Expires=Fri, 12 Oct 2018 17:52:13 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=8FB48F2AD9CA72158EADC326B3565DAF; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=8FB48F2AD9CA72158EADC326B3565DAF; Expires=Fri, 05-Oct-2018 19:52:13 GMT; Path=/; Secure
+Set-Cookie: cass=0; Expires=Fri, 05-Oct-2018 19:52:13 GMT; Path=/; Secure
+Set-Cookie: gdId=96a844e3-a3c9-4ae2-b5be-2879cca6423d; Expires=Mon, 02-Oct-2028 17:52:13 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 19:52:13 GMT; Path=/; Secure
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 17:52:13 GMT
+Cf-Ray: 4651bda688bb922a-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/family-practitioner-family-care-clinic-of-texas-JV_IC1140171_KO0,19_KE20,47.htm?jl=2910601843&ctt=1538761933921

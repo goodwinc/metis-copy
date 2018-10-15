@@ -1,0 +1,22 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=g47uBcW7zqR/mjILYYyoADAwVWFJgC2Lg6gTkXSV45EcOepiHyqDFMkBhH8hanFy1sGolDh/XiwZ59KfJL6/+SFnt+6Giwvdkb2QzsfIKdWaIysgcmpWCg9vegJS; Expires=Sat, 13 Oct 2018 04:04:09 GMT; Path=/
+Set-Cookie: GSESSIONID=DB75D89B51910B59D4E1CA3DC973CF51; Expires=Sat, 06-Oct-2018 06:04:09 GMT; Path=/; Secure
+Set-Cookie: cass=0; Expires=Sat, 06-Oct-2018 06:04:09 GMT; Path=/; Secure
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 06:04:09 GMT; Path=/; Secure
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Tue, 03-Oct-2028 04:04:09 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 06:04:09 GMT; Path=/; Secure
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Sat, 06 Oct 2018 04:04:09 GMT
+Cf-Ray: 46553e079c6a0ec1-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/multicultural-outreach-and-recruitment-admissions-counselor-university-of-washington-office-of-minority-affairs-diversity-JV_IC1150505_KO0,59_KE60,121.htm?jl=2883920322&ctt=1538798649621

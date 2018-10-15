@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=8naW6RI3Z0SgHEJ2+W+Pq2P5liluKJQc3zhi0WycCh1wHKBus02tluQwsTXImFinSsRUVgaI9BTBKgP/w61Yt/MtH8GY1yo7dYTkXkg9nJeUR/oQcnj9rhzmm34C; Expires=Fri, 12 Oct 2018 22:25:52 GMT; Path=/
+Set-Cookie: GSESSIONID=2B34FF98BFC9DCBBBEE92C956C15214B; Expires=Sat, 06-Oct-2018 00:25:52 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:25:52 GMT; Path=/
+Set-Cookie: gdId=611712ba-b6b0-4c92-9aee-e27a1903a6d5; Expires=Mon, 02-Oct-2028 22:25:52 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:25:52 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 22:25:52 GMT
+Cf-Ray: 46534e7eea591858-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/manufacturing-engineer-haeco-americas-JV_IC1138755_KO0,22_KE23,37.htm?jl=2961392879&ctt=1538778352534

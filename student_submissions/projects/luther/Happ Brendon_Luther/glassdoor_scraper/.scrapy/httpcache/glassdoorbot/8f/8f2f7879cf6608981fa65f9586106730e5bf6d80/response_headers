@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=01NaaPqC9M6+f9UHmdZUkX5Leamgnl7TpnYPxZJJhIzbmutOMTePDOreqQYIcvf3kLTGR1w4IElPavAiYtnLbLZz5mhqryau5oMwYP6G2mYW4Ck0+IGdzJtqlG4r; Expires=Sat, 13 Oct 2018 16:02:16 GMT; Path=/
+Set-Cookie: GSESSIONID=78F83617E9235C39162AEEB591AD19CD; Expires=Sat, 06-Oct-2018 18:02:16 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 18:02:16 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Tue, 03-Oct-2028 16:02:16 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 18:02:17 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Sat, 06 Oct 2018 16:02:17 GMT
+Cf-Ray: 465959f82d9291ee-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/payroll-specialist-rdms-JV_IC1147401_KO0,18_KE19,23.htm?jl=2825378546&ctt=1538841737123

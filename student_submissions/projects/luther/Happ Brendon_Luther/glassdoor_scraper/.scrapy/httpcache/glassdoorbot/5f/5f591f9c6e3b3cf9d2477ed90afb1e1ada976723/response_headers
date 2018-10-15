@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=auc6SoHWuu+G708zqoFJHdbwFcb4nTpQLPPue4sN56jFakT6tHDDrKmJ05aRzxW1AGo75CG/uDKjNURoawDl234edYgVULADIcR6AI+AtDSVzYmjC2UVhVAYN9Y4; Expires=Sat, 13 Oct 2018 15:53:46 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=E267BFBB507D4FCF381BBCF12F446C77; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=E267BFBB507D4FCF381BBCF12F446C77; Expires=Sat, 06-Oct-2018 17:53:46 GMT; Path=/; Secure
+Set-Cookie: cass=0; Expires=Sat, 06-Oct-2018 17:53:46 GMT; Path=/; Secure
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Tue, 03-Oct-2028 15:53:46 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 17:53:46 GMT; Path=/; Secure
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Sat, 06 Oct 2018 15:53:46 GMT
+Cf-Ray: 46594d7ffd0a91ee-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/data-scientist-quantum-reservoir-impact-JV_IC1140171_KO0,14_KE15,39.htm?jl=2548760154&ctt=1538841226299

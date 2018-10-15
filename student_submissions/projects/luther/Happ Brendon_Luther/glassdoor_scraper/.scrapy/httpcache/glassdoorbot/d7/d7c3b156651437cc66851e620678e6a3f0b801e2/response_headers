@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=9x1n9pr/sBThySFGM0L/5xxbW//2ToGtjETg8r1cPD4JaaN+0/hLuowJgOXgv29UtvyvaqvpPES3PsMpx8AUUBBlaqiDp0wAWgiHPS/otscy4usQ7DWaHOmEwCqB; Expires=Fri, 12 Oct 2018 21:47:06 GMT; Path=/
+Set-Cookie: GSESSIONID=518C4164196ACC9391ED8CCEE513BAD3; Expires=Fri, 05-Oct-2018 23:47:06 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 23:47:06 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Mon, 02-Oct-2028 21:47:06 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 23:47:06 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 21:47:06 GMT
+Cf-Ray: 465315b4e966922a-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/registered-nurse-rn-ii-cvicu-full-time-nights-ut-southwestern-medical-center-JV_IC1139977_KO0,45_KE46,76.htm?jl=2977501169&ctt=1538776026457

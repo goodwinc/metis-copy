@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=Wh/ImeGfbsq3nZHQvpXpaPYgH0psJiWPt//KHKwUNwFQXs6H8sqH9vSQQjP9CTKY5vHjPk3Y4fQrgiMAZA9JAyC/l1KEL2w2K0Db6AtVtDR8w1E0aEt2Afnf5mUT; Expires=Sat, 13 Oct 2018 04:10:27 GMT; Path=/
+Set-Cookie: GSESSIONID=DB75D89B51910B59D4E1CA3DC973CF51; Expires=Sat, 06-Oct-2018 06:10:27 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 06:10:27 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Tue, 03-Oct-2028 04:10:27 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 06:10:27 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Sat, 06 Oct 2018 04:10:27 GMT
+Cf-Ray: 4655473f5a3a0ec1-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/head-of-marketing-realatom-JV_IC4990385_KO0,17_KE18,26.htm?jl=2895324502&ctt=1538799027164

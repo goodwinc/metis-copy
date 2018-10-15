@@ -1,0 +1,22 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=/EmqppzbCuAinAQ1qUno67ECMSeiSVx4cW7/ZAAeClKND7nzH8Y8ClPhLSzHLVcVEvuzh9J/0rDD0DTggmFLhx2o0MgUfEh+BB0jSyFZJui6icX7vnDrS/5D2y8e; Expires=Fri, 12 Oct 2018 22:15:49 GMT; Path=/
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=2B34FF98BFC9DCBBBEE92C956C15214B; Expires=Sat, 06-Oct-2018 00:15:49 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:15:49 GMT; Path=/
+Set-Cookie: gdId=611712ba-b6b0-4c92-9aee-e27a1903a6d5; Expires=Mon, 02-Oct-2028 22:15:49 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:15:49 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 22:15:49 GMT
+Cf-Ray: 46533fc61b789206-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/pavement-engineer-site-JV_IC1128808_KO0,17_KE18,22.htm?jl=2643975896&ctt=1538777749514

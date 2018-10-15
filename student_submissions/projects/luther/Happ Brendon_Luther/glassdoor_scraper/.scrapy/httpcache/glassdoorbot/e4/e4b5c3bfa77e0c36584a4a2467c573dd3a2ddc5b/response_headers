@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=Y4Msr9ewWaXzZwTlg+U1DklukRwXEt6fu3N1oBJQg1mWNylHq8YJxarTC+JqFI+YsTA+K/t53CWI8CV2uLEVaIys6KwL+XI4USrHoYhLnvp729KbYDwPqWdQskpZ; Expires=Fri, 12 Oct 2018 22:58:28 GMT; Path=/
+Set-Cookie: GSESSIONID=518C4164196ACC9391ED8CCEE513BAD3; Expires=Sat, 06-Oct-2018 00:58:28 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:58:28 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Mon, 02-Oct-2028 22:58:28 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:58:28 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 22:58:28 GMT
+Cf-Ray: 46537e3f8dd40ee5-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/data-analyst-intern-corporate-planning-department-philadelphia-gas-works-JV_IC1152672_KO0,49_KE50,72.htm?jl=2965596194&ctt=1538780308494

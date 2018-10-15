@@ -1,0 +1,23 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=UVMcULmXswln5Bf30WcrtFQRWPDCDNXPsmuLcmC88NPVWOJJ5XYNbE17Q8uCd498B7SuFB8+G4VOmswiITDiNVwQa/hoKOUKr+6bqOJwhPJ/6B59VJ5L7/oIhy1G; Expires=Fri, 12 Oct 2018 22:22:50 GMT; Path=/
+Set-Cookie: JSESSIONID_JX_APP=C34667DDC39CA36514F0747DFDCDD04D; Path=/; Secure; HttpOnly
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=2B34FF98BFC9DCBBBEE92C956C15214B; Expires=Sat, 06-Oct-2018 00:22:50 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:22:50 GMT; Path=/
+Set-Cookie: gdId=611712ba-b6b0-4c92-9aee-e27a1903a6d5; Expires=Mon, 02-Oct-2028 22:22:50 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 00:22:50 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 22:22:50 GMT
+Cf-Ray: 46534a0dc84b0edf-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/project-engineer-aviation-airport-ardmore-roderick-JV_IC1128808_KO0,33_KE34,50.htm?jl=2844112676&ctt=1538778170635

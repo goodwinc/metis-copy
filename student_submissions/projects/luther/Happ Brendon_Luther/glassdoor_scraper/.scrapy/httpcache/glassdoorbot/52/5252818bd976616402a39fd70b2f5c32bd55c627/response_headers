@@ -1,0 +1,21 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=5hWYm22PRBQ9Q9KLfI3TR2acJGnV9kfHqkUir/1uBqgmgwimV4CbW1p5G+E3G2wRJNc9PcZ0NfwG93teXPWMxgiIL8pd85oI7vLU78R9M41gP7/M3AZRTaO2KxSV; Expires=Fri, 12 Oct 2018 21:53:23 GMT; Path=/
+Set-Cookie: GSESSIONID=518C4164196ACC9391ED8CCEE513BAD3; Expires=Fri, 05-Oct-2018 23:53:23 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 23:53:23 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Mon, 02-Oct-2028 21:53:23 GMT; Path=/
+Set-Cookie: cass=2; Expires=Fri, 05-Oct-2018 23:53:23 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Fri, 05 Oct 2018 21:53:23 GMT
+Cf-Ray: 46531ee92a47922a-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
+Location: /job-listing/principal-engineer-software-data-center-cisco-systems-JV_IC1147436_KO0,39_KE40,53.htm?jl=2683648732&ctt=1538776403470

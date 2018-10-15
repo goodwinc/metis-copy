@@ -1,0 +1,6 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Set-Cookie: AWSALB=AetWSDNQB/ojPCyCrUFhi19nvV0voD5X7jVg0qAHoR2Q3adK+ZEyiL6WfZPEpjIDHGtj9yrU8pXCmDLrhaXaasButhUcyYtz8i6XzubjUsMr/cO6lgTz+M4gsae0; Expires=Thu, 11 Oct 2018 16:06:34 GMT; Path=/
+Server: cloudflare
+Location: /index.htm
+Date: Thu, 04 Oct 2018 16:06:34 GMT
+Cf-Ray: 4648e5848e9021fe-EWR

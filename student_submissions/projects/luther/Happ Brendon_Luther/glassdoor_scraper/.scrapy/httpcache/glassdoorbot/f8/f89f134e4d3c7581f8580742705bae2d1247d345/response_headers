@@ -1,0 +1,22 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Content-Language: en
+Content-Security-Policy: frame-ancestors 'self' https://help.glassdoor.com http://library.glassdoor.com https://library.glassdoor.com http://glassdoor.lookbookhq.com https://glassdoor.lookbookhq.com https://glassdoor2.lookbookhq.com https://howto.glassdoor.com ;
+Content-Encoding: gzip
+Set-Cookie: AWSALB=yfXl9hd6HdtEnB+9vaKiMTXoeG1o4cCPD+0WRGtTajK/XcfyV2JC/2LjAFiMMZquZyquAfY/Myr/36ETzFn5GuvS2bKkZWpu13v5t10y10Sy72B2pseenkb3z2+3; Expires=Sat, 13 Oct 2018 15:55:03 GMT; Path=/
+Set-Cookie: _uac=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: GSESSIONID=E1A5052E97159EB3B260F0233EB99A7F; Expires=Sat, 06-Oct-2018 17:55:03 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 17:55:03 GMT; Path=/
+Set-Cookie: gdId=641632a1-b816-4078-b2a3-c77e18f0925a; Expires=Tue, 03-Oct-2028 15:55:03 GMT; Path=/
+Set-Cookie: cass=2; Expires=Sat, 06-Oct-2018 17:55:04 GMT; Path=/
+Expires: 0
+Vary: Accept-Encoding
+Server: cloudflare
+Accept-Charset: UTF-8
+X-Ua-Compatible: IE=edge,chrome=1
+Pragma: no-cache
+Cache-Control: no-cache,no-store,must-revalidate,no-transform
+Date: Sat, 06 Oct 2018 15:55:04 GMT
+Cf-Ray: 46594f65ea9a91ee-EWR
+Content-Type: text/html;charset=UTF-8
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+X-Frame-Options: SAMEORIGIN
