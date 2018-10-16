@@ -9,28 +9,28 @@ Read my blog post [here]!*
 ## Repo Contents:   
 
 ### Data
-* [codes.csv](codes.csv) - list of IMDB movie codes
-* [codes.pkl](codes.pkl) - codes.csv in pickled format for ease of use
-* [df.csv](df.csv) - cleaned data for modeling
-* [imdb.csv](imdb.csv) - raw IMDB data
-* [imdb.pkl](imdb.pkl) - raw IMDB data in pickled format for ease of use
-* [money_df.csv](money_df.csv) - supplementary data on budgets and box office grosses from The Numbers
+* [codes.csv](https://github.com/maddyobrienjones/project_luther/blob/master/codes.csv) - list of IMDB movie codes
+* [codes.pkl](https://github.com/maddyobrienjones/project_luther/blob/master/codes.pkl) - codes.csv in pickled format for ease of use
+* [df.csv](https://github.com/maddyobrienjones/project_luther/blob/master/df.csv) - cleaned data for modeling
+* [imdb.csv](https://github.com/maddyobrienjones/project_luther/blob/master/imdb.csv) - raw IMDB data
+* [imdb.pkl](https://github.com/maddyobrienjones/project_luther/blob/master/imdb.pkl) - raw IMDB data in pickled format for ease of use
+* [money_df.csv](https://github.com/maddyobrienjones/project_luther/blob/master/money_df.csv) - supplementary data on budgets and box office grosses from The Numbers
   
 ### Web Scraping and Data Cleaning
-* [cleaning.py](cleaning.py) - cleaning of raw IMDB data
-* [moneyscraping.py](moneyscraping.py) - scraper used to get supplementary budget and revenue information from The Numbers
-* [scraper.py](scraper.py) - scraper used to gather data from each movie
-* [selenium_link_scraper.py](selenium_link_scraper.py) - scraper used to gather IMDB movie codes
+* [cleaning.py](https://github.com/maddyobrienjones/project_luther/blob/master/cleaning.py) - cleaning of raw IMDB data
+* [moneyscraping.py](https://github.com/maddyobrienjones/project_luther/blob/master/moneyscraping.py) - scraper used to get supplementary budget and revenue information from The Numbers
+* [scraper.py](https://github.com/maddyobrienjones/project_luther/blob/master/scraper.py) - scraper used to gather data from each movie
+* [selenium_link_scraper.py](https://github.com/maddyobrienjones/project_luther/blob/master/selenium_link_scraper.py) - scraper used to gather IMDB movie codes
   
 ### Model Testing
-* [final_models.ipynb](final_models.ipynb) - cleaned notebook of models tested
-* [model_test.ipynb](model_test.ipynb) - miscellaneous model testing
-* [poly_model.ipynb](poly_model.ipynb) - building of polynomial model
-* [trees_model.ipynb](trees_model.ipynb) - building of trees models
-* [modeling.py](modeling.py) - modeling notes
+* [final_models.ipynb](https://github.com/maddyobrienjones/project_luther/blob/master/final_models.ipynb) - cleaned notebook of models tested
+* [model_test.ipynb](https://github.com/maddyobrienjones/project_luther/blob/master/model_test.ipynb) - miscellaneous model testing
+* [poly_model.ipynb](https://github.com/maddyobrienjones/project_luther/blob/master/poly_model.ipynb) - building of polynomial model
+* [trees_model.ipynb](https://github.com/maddyobrienjones/project_luther/blob/master/trees_model.ipynb) - building of trees models
+* [modeling.py](https://github.com/maddyobrienjones/project_luther/blob/master/modeling.py) - modeling notes
 
 ### Presentation
-* [luther.pdf](luther.pdf) - presentation in PDF format
+* [luther.pdf](https://github.com/maddyobrienjones/project_luther/blob/master/luther.pdf) - presentation in PDF format
 
 *work in progress
 
