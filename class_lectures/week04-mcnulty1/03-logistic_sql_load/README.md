@@ -16,15 +16,13 @@
 
 **10:30 am**: [Logistic Regression slides](logistic.pdf) and [code](Logistic_Regression.ipynb)
 
-**11:30 am**: Install PostgreSQL on your cloud machine, and load some data! ([Walk-through](postgres_loading.md))
-
 **12:00pm**: Lunchy lunch
 
 **1:00 pm**: Investigation
 
-**1:15 pm**: A bit of extra time for PostgreSQL, if needed
+**1:15 pm**: Install PostgreSQL on your cloud machine, and load some data! ([Walk-through](postgres_loading.md))
 
-**1:45 pm**: Work!
+**2:00 pm**: Work!
 
  * Set up shared SQL access on cloud machines.
  * Do classification challenges.
