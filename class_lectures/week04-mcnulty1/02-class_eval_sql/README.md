@@ -24,12 +24,15 @@
 
 **1:00 pm**: Investigation Presentation
 
-**1:30pm**: Challenges and project work!
+**1:15 pm**: [Setting up cloud servers](../01-mcnulty_class_cloud/aws_1_setup_cloud.md) and
+	     [Installing anaconda + setting up jupyter, a la Chris Albon](https://chrisalbon.com/software_engineering/cloud_computing/run_project_jupyter_on_amazon_ec2/)
+
+**2:30 pm**: Continue on personal AWS setup, challenges and project work!
 
 
 ### More on structuring data, databases, and SQL
 
- * You could go through Zed Shaw's [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/), which will still take you through lots of SQL with SQLite.
+ * You could go through the free [Selectstar book](https://selectstarsql.com/)
  * For more introductory SQL, check out the [Mode Analytics "SQL School"](http://sqlschool.modeanalytics.com/).
 
  ### More on Error Metrics
