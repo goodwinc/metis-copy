@@ -38,7 +38,7 @@ Check what databases you have so far with `\l`.
 
 You can create a new database with `CREATE DATABASE database_name;`.
 
-Case doesn't matter, but to make it clear what's a SQL word and what's chosen by us I'll follow the ugly SQL convention of capitalizing like a crazy person.
+Case doesn't matter, but to make it clear what's a SQL word and what's chosen by us I'll follow the convention of capitalizing SQL syntax.
 
 Let's make a database called `endor`.
 
