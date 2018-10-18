@@ -1,0 +1,39 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <meta charset="utf-8">
+
+    <style type="text/css">
+    .first-class {
+
+  background-color: #ddf;
+  color: #4542f4;
+  font-family:"Times New Roman", Georgia, Serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.second-class {
+font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+font-size: 20px;
+}
+
+    </style>
+  </head>
+  <body>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script>
+    d3.select("body").append("h1").text("something big").classed("first-class",true)
+
+    var parts = ["This is", "my first", "data join!"]
+
+     var sentence = d3.select("body").selectAll("p")
+       .data(parts)
+     .enter()
+       .append("p")
+       .text(function(d) { return d; });
+
+    </script>
+  </body>
+  </html>
