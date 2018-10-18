@@ -43,7 +43,7 @@ As you continue to develop your McNulty masterpieces, you will learn how to work
 #### Thursday 10/25
 ##### week 5 day 4:
 
-* [D3 lab](04-D3/d3-anscombe-lab)
+* [D3 lab](04-D3_tableau/d3-anscombe-lab)
 
 ---
 
