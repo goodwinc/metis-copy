@@ -1,4 +1,4 @@
-# Welcome to Week 5: "Deep-Learning & Data-Products" 
+# Welcome to Week 5: "Tree-based Methods & Data-Products" 
 
 ### <a name="overview"></a>Overview
 
