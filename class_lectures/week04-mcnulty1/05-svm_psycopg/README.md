@@ -22,11 +22,13 @@
 
 **12:00pm**: Lunch
 
-**1:00 pm**: Investigation Presentation
+**1:00pm**: Speaker Series: Matt Orr, Data Scientist at Capgemini
 
-**1:15 pm**: [More postgresql setup](Postgres_psycopg.md) leading to the wonders of [sqlAlchemy](psycopg_sqlAlchemy.ipynb)
+**2:00 pm**: Investigation Presentation
 
-**2:00 pm**: Work Time
+**2:15 pm**: **Optional**: if you'd like to remotely connect to your postgres database on the cloud so that you can query the data and work with it locally: [More postgresql setup](Postgres_psycopg.md) leading to the wonders of [sqlAlchemy](psycopg_sqlAlchemy.ipynb). Joe will be around to help as you do it. 
+
+**2:15 pm**: Work Time
 
 
 #### Further reading on SVMs
