@@ -18,4 +18,4 @@ Remember the steps for recursion:
 
 And you are done!
 
-This is not an easy problem. It's okay if you don't solve it completely. See which of the above steps you can complete. And I'll help you along the way.
+This is not an easy problem. It's okay if you don't solve it completely. See which of the above steps you can complete. And I'll slack answers to each of the question above, one at a time. Flag me if any of it is unclear.
