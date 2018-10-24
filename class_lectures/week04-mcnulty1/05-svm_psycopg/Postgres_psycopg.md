@@ -73,7 +73,7 @@ COPY Schools FROM '/home/ubuntu/baseballdata/Schools.csv' DELIMITER ',' CSV HEAD
 
 ```bash
 sudo su - postgres
-nano /etc/postgresql/9.5/main/postgresql.conf
+nano /etc/postgresql/10/main/postgresql.conf
 ```
 
 On our postgresql.conf: change your
@@ -82,7 +82,7 @@ Hint: make sure the line is no longer commented out
 Hint Hint: while in nano you can use control w for search (just search for 'listen_addresses')    
 
 ```bash
-nano /etc/postgresql/9.5/main/pg_hba.conf
+nano /etc/postgresql/10/main/pg_hba.conf
 ```
 
 On our pg_hba.conf: let's add:
