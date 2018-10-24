@@ -20,11 +20,11 @@
  * Defining a one-route prediction [API](predictor_app/)
  * Making a model-based [UI](cancer_app/)
  
-**11:00 am**: Break for early lunch / work (Joe has an appointment)
+**12:00 am**: Lunch
 
 **1:00 pm**: Investigation Presentation
 
-**1:15 pm**: We'll finish up Flask if we need the extra time. Then work! 
+**1:15 pm**: Work! 
 
 
 ### Installing `flask`
