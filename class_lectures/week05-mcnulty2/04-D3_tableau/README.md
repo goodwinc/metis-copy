@@ -32,6 +32,8 @@ If you haven't yet installed Chrome.. now is the time:)
 
 Draw your visualization! Draw before coding!
 
+**Due Date!:** Please submit mvps to the mcnulty mvp folder by end of day today.
+
 
 ### Further Resources
 
