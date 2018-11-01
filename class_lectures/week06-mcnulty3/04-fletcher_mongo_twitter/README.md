@@ -26,11 +26,11 @@ You will need to set up a Twitter account for today :)
 
 **1:00 pm**: Investigation
 
-**1:30 pm**: [NoSQL databases and MongoDB](NoSQL_and_MongoDB.pdf)
+**1:15 pm**: [NoSQL databases and MongoDB](NoSQL_and_MongoDB.pdf)
 
  * [mongoDB walk-through (done locally, but with ubuntu setup instructions too)](mongodb_ubuntu&local.md)
 
-**2:30 pm**: Interacting with APIs. Using the [Twitter_API](TwitterAPI.ipynb)
+**2:00 pm**: Interacting with APIs. Using the [Twitter_API](TwitterAPI.ipynb)
 
 **3:00 pm**: Careers Workshop
 
