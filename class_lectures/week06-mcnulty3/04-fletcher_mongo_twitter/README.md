@@ -38,7 +38,7 @@ You will need to set up a Twitter account for today :)
   * Techniques to try
   * Text data to use
 
-**3:00 pm**: Glorious work on Fletcher data gathering!
+**3:00 pm**: Careers Workshop
 
 
 ### More Resources on MongoDB
