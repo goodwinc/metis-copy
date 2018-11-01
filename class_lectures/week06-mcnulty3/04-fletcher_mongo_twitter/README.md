@@ -32,12 +32,6 @@ You will need to set up a Twitter account for today :)
 
 **2:30 pm**: Interacting with APIs. Using the [Twitter_API](TwitterAPI.ipynb)
 
-**2:30 pm**: Fletcher Brainstorm:
-
-  * Problems to attack
-  * Techniques to try
-  * Text data to use
-
 **3:00 pm**: Careers Workshop
 
 
