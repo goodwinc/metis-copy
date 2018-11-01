@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Game of Life</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+  </head>
+  <body>
+    <script>
+
+     var data = new Array(1600);
+
+       var svg = d3.select("body").append("svg")
+                   .attr("width", 800)
+                   .attr("height", 600);
+
+    var all_rect = svg.selectAll("rect")
+          .data(data)
+          .enter().append("rect")
+          .attr("y", function(d, i) { data[i]=0; return (i%40)*20 })
+          .attr("width", 18)
+          .attr("height", 18)
+          .attr("x", function(d, i) { return Math.floor(i/40)*20; })
+          .style("fill", "#659ec7");
+
+    d3.selectAll("rect").on("mousedown",function(d,i) {
+      d3.select(this).style("fill","#ff77b4");
+      data[i]=1;
+    });
+
+    </script>
+
+      <div>
+      <button type="button">Go!</button>
+      </div>
+
+  </body>
+</html>
