@@ -2,7 +2,7 @@
 
 Let's tie it all together. *I know you'll find this frustrating. I'll be around to help.*
 
-1) Move your pair.html from last Thursday to this folder and add these code pieces to it. The first goes at the beginning of your "body" block. And the second goes to the end of the "script" block. Alternately, you can use this file: [pair.html](pair.html)
+1) Move your pair.html from last Thursday to this folder and add these code pieces to it. The first goes at the beginning of your "body" block. And the second goes to the end of the "script" block. You also need this line in your <head>: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>. Alternately, you can use this file: [pair.html](pair.html)
 
 ```javascript
       <div>
