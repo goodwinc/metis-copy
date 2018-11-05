@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Game of Life!</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+  </head>
+  <body>
+
+    <div>
+      <button type="button" onClick="evolve()">Evolve!</button>
+    </div>
+
+    <script>
+
+        var myVar;
+        var active=0;
+
+       var dataset = new Array(1600)
+
+       var svg = d3.select("body").append("svg")
+                   .attr("width", 800)
+                   .attr("height", 600);
+
+       svg.selectAll("rect")
+          .data(dataset)
+          .enter().append("rect")
+          .attr("y", function(d, i) { dataset[i]=0; return (i%40)*20 })
+          .attr("width", 18)
+          .attr("height", 18)
+          .attr("x", function(d, i) { return Math.floor(i/40)*20; })
+          .style("fill",'blue')
+          .on("mousedown",function(d,i) {
+            if (active==1) {
+                clearInterval(myVar);
+                active=0;
+            }
+      d3.select(this).style("fill","#ff77b4");
+      dataset[i]=1;
+    });
+
+     function getnextframe(){
+       $.ajax({
+         type: "POST",
+         contentType: "application/json; charset=utf-8",
+         url: "/gof",
+         dataType: "json",
+         async: true,
+         data: "{\"grid\": ["+dataset+"]}",
+         success: function (d) {
+                      if (d.change==0) {
+                        clearInterval(myVar);
+                        active=0;
+                      }
+            dataset=d.grid
+           svg.selectAll("rect")
+              .data(dataset)
+              .style("fill",function(d) {if (d==1) {return 'red';} else {return 'blue';}});
+         }
+       })
+     }
+
+     function evolve() {
+      active=1;
+       myVar = setInterval(getnextframe, 1000);
+      }
+    </script>
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
