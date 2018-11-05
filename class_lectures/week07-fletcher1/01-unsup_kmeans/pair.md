@@ -28,8 +28,12 @@ Let's tie it all together. *I know you'll find this frustrating. I'll be around 
  
 2) If you pasted into your file, make sure to change the "dataset" variable to your variable that contains the information on which cells are alive.
 
-3) The function "success" is currently empty. This is where the data that python posts will arrive (stored in the variable 'd'). Write out this function so that it updates the board.
+3) You have goflife.ipynb in the folder. Just run that and it will serve up the pair.html and you can access it in the browser at http://0.0.0.0:5000/.
 
-4) You have goflife.ipynb in the folder. Just run that and it will serve up the pair.html and you can access it in the browser at http://0.0.0.0:5000/.
+4) Currently, nothing will happen. In Python, you are getting the board (as a 1-d list) and just sending it back. First, set everything to 0 and send it back.
 
-5) In that python notebook, add code to do the actual evolution of the board.
+5) What is returned from Python comes to the "success" function (stored in the variable 'd'). First just print that to see if you get all 0s. You can use console.log().
+
+6) Write code to update the D3 grid using the returned values.
+
+7) In that python notebook, add code to do the actual evolution of the board (instead of sending all 0s).
