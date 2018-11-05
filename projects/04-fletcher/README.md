@@ -47,6 +47,6 @@ learning techniques?  Extend your analysis by combining unsupervised and supervi
 
 #### Deadlines:
 
- * Project proposal due Monday, 8/13 end of day
- * Project presentations: Monday, 8/27
+ * Project proposal due Monday, 11/5 end of day
+ * Project presentations: Friday, 11/16
 
