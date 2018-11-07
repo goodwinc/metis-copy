@@ -12,8 +12,7 @@ Today we'll talk about **Vector Space Models** for NLP.  Our goal for all of the
 
 **8:45 am**: Let's go!
 
-**9:00 am**: Pair Programming:  
-  * Pair: [LDA fun](pair.md)   
+**9:00 am**: Pair Programming: [LDA fun](pair.md)   
   
     Arianna, Amine
     Maddy, Rob
