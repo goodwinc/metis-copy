@@ -8,7 +8,7 @@ There are three of you in a room. I say, "In this hidden bag, I have three white
 
 **Problem 2:**
 
-A man lives on the 14th floor of an apartment. Every morning, when he goes to work, he gets on the elevator at the 14th floor and goes down to the lobby. In the evening, if he is on his own, he takes the elevator from the lobby to the 8th floor and then walks up 6 flights. But if there are other people, he goes straight to the 14th floor. Why does he do that?
+A man lives on the 14th floor of an apartment. Every morning, when he goes to work, he gets on the elevator at the 14th floor and goes down to the lobby. In the evening, if he is on his own, he takes the elevator from the lobby to the 8th floor and then walks up 6 flights. But if there are other people, he goes straight to the 14th floor. And if it's a rainy day, he goes straight to the 14th floor. Why does he do that?
 
 **Problem 3:**
 
