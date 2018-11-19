@@ -14,7 +14,11 @@
 		Angad
 		Druce, Matt
 
-**10:00 am**:  [Deep Learning for NLP - more examples](DeepLearning.ipynb)
+**10:00 am**:  
+
+* [Neural Net Code Examples (digit images and NLP)](NeuralNet_Examples.ipynb)
+
+* Additional Resource: [More and More NN examples, with an NLP focus](DeepLearning.ipynb)
 
 **12:00 pm**: Lunch
 
