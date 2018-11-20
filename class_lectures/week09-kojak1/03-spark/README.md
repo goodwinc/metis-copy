@@ -2,7 +2,7 @@
 
 **8:45 am**: Good morning!
 
-**9:00 am**: [Pair programming question](pair_map_reduce_tweets.md).
+**9:00 am**: [Pair programming question](pair.md).
 
                 Arianna, Elizabeth
                 Vitoria, Krisztian
