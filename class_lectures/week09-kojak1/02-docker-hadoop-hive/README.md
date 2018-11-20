@@ -24,10 +24,12 @@
 
 **10:30 am**: MapReduce and Hadoop!
 
- * Intro to [Hadoop and MapReduce](hadoop_mapreduce.pdf)
+ * Intro to [Hadoop and MapReduce](intro_to_hadoop.pdf)
  * Run [map and reduce](map_reduce.md) just like Hadoop, but without the Hadoop.
  * Hands on with [Hadoop](Hadoop_Introduction.ipynb) on your Docker instance!
  * Hands on with [Hive](hive.md) on your Docker instance!
+ 
+ * [Additional slides](hadoop_mapreduce.pdf) on hadoop and MapReduce
 
 **12:00 pm**: A delicious meal
 
