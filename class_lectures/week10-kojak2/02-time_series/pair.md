@@ -25,7 +25,7 @@ In this case, your function would return this result:
 
 #### Part 2
 
-Once you have a solution working, consider how your code would perform if the inputs were large. Can you improve the performance of your solution?
+Once you have a solution working, consider how your code would perform if the inputs were large. What is the complexity? Can you improve the performance of your solution?
 
 Put in this piece of code:
 
@@ -63,7 +63,7 @@ For example, your function would take these two lists of lists:
  [27, 2, 'rat']]
 ```
 
-In this case, your function would return this result:
+In this case, your function would return this result (order doesn't matter.. just that we get all four rows):
 
 ```python
 [[27, 'dog', 5, 8, 'elf'],
