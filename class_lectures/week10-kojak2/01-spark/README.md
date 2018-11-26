@@ -28,6 +28,6 @@
 
 **1:00 pm**: Investigation Presentation
 
-**3:30 pm**: Careers Workshop
+**3:00 pm**: Careers Workshop
 
 
