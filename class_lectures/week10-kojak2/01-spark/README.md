@@ -4,17 +4,17 @@
 
 **9:00 am**: [Pair question](pair.md).
 
-        Ying, Douglas
-        Anders, Khoa
-        Ling, Leon J.
-        Joseph, Katie
-        Leon R., Jose
-        Shreshth, Andrea
-        Bradley, Marine
-        Nicholas, Matthew
-        solo, William
-        Clarence, Edmund
-        Gabriel, Nicolas
+	Arianna, Krisztian
+	Elizabeth, Adam
+	Vitoria, Laila
+	Goodwin, Andree
+	John, Brendon
+	Emma, Dan
+	Iggy
+	Michael, Matt
+	Saif, Druce
+	Rob, Angad
+	Amine, Maddy
 
 **10:00 am**: More Spark! 
 
