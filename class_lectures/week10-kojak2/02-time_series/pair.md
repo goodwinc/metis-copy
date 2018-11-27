@@ -32,7 +32,7 @@ Put in this piece of code:
 ```python
 import random
 random.seed(127)
-numbers = range(1000)
+numbers = list(range(1000))
 random.shuffle(numbers)
 test1 = [[index] + [random.random() for _ in range(100)] for index in numbers]
 random.shuffle(numbers)
