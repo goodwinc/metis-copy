@@ -6,4 +6,6 @@ You can try solving this analytically and/or with a simulation.
 
 Hint: for the analytical solution, remember the power of conditional probability / the law of total probability
 
-Hint: remember the amoeba problem!
+Hint2: remember the amoeba problem!
+
+Hint3: an alternate way of thinking about the problem: do you think there might be a markov chain in there somewhere?
